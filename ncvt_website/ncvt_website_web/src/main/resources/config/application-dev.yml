@@ -1,0 +1,4 @@
+server:
+  port: 8081
+constant:
+   icourse163Url: http://www.icourse163.org
