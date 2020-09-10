@@ -11,12 +11,6 @@
 
     <groupId>com.ncvt</groupId>
     <artifactId>ncvt_website_web</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>com.ncvt</groupId>
-            <artifactId>ncvt_common</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+
 
 </project>

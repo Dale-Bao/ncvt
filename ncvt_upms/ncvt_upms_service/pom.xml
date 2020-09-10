@@ -16,11 +16,6 @@
             <artifactId>ncvt_upms_api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>com.ncvt</groupId>
-            <artifactId>ncvt_upms_api</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
     </dependencies>
 
 

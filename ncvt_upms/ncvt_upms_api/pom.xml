@@ -9,14 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.ncvt</groupId>
     <artifactId>ncvt_upms_api</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>com.ncvt</groupId>
-            <artifactId>ncvt_common</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+
 
 
 </project>

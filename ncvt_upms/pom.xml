@@ -17,5 +17,11 @@
         <module>ncvt_upms_web</module>
     </modules>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.ncvt</groupId>
+            <artifactId>ncvt_common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
